@@ -14,3 +14,10 @@ I'm trying to et a **bold** letter and a _cursive_
 - I Think I'm going in the correct way
 
 >let's check it
+
+Wow this is completely reat
+>again, my g is not working
+
+## Now, let's ignore some files
+
+But first a little break and pick some food
